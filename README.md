@@ -68,7 +68,7 @@ https://github.com/jeyashreemurugappan1/BIKE_SHARING_ASSIGNMENT/data/day.csv
 
 ## Acknowledgements
 Give credit here.
-- This project has been prepared from learning from EDA at https://www.learn.upgrad.com
+- This project has been prepared from learning from linear regression at https://www.learn.upgrad.com
 
 
 ## Contact
